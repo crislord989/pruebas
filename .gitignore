@@ -1,0 +1,8 @@
+# Ignorar entorno virtual
+entorno/
+
+# Ignorar llaves SSH y archivos extraños
+id_rsa*
+*.pub
+[A*
+[B*
