@@ -1,7 +1,7 @@
 from primos import es_primo
 
 def test_numero_primo():
-    assert es_primo(7) == True
+    assert es_primo(4) == True
     assert es_primo(13) == True
     assert es_primo(2) == True
 
